@@ -1,12 +1,10 @@
-# Useful materials on the development of neural networks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wladradchenko/help.wladradchenko.ru)
-
-Collected everything in one place! A selection of educational materials on neural networks, as well as various open source projects with neural networks that can be useful for developing services!
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=wladradchenko&style=flat-square&color=blue" alt=""></p>
+# Neural Network Development: Free Educational Materials and Open-Source Projects [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wladradchenko/help.wladradchenko.ru) <img src="https://komarev.com/ghpvc/?username=wladradchenko&style=flat-square&color=blue" alt="">
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="500"/>
 </div>
+
+Collected everything in one place! A selection of educational materials on neural networks, as well as various open source projects with neural networks that can be useful for developing services!
 
 ## Educational materials
 
