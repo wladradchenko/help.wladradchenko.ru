@@ -92,7 +92,7 @@ Remember, learning neural networks takes time and practice. Stay curious and kee
 
 ## Open-source projects
 
-Absolutely, here's a list of open-source projects on GitHub that cover a variety of neural network applications, including GANs for music, image, deepfakes, recommendation systems, language models, and more:
+Open-source projects on GitHub that cover a variety of neural network applications, including GANs for music, image, deepfakes, recommendation systems, language models, and more:
 
 ### Text and Language Models
 - [Llama2 by Meta](https://huggingface.co/docs/transformers/main/model_doc/llama2): The third iteration of the Generative Pre-trained Transformer, capable of performing a variety of language tasks.
