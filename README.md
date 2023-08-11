@@ -139,6 +139,10 @@ These projects cover a wide range of neural network applications and can serve a
 
 ## Connect with me
 
+Owner: Wladislav Radchenko
+
+Email: i@wladradchenko.ru
+
 <div id="badges" align="left" style="display: flex; justify-content: space-around;">
     <a href="https://tenchat.ru/wladradchenko" target="_blank">
       <img src="social/tenchat.png" width="40" height="40" alt="Tenchat Badge" />
@@ -168,3 +172,5 @@ These projects cover a wide range of neural network applications and can serve a
       <img src="social/play.png" width="40" height="40" alt="Google Play Badge"/>
     </a>
 </div>
+
+<p align="right">(<a href="#top">Go to Up</a>)</p>
